@@ -32,7 +32,7 @@ When going on vacation, I prefer no clouds, low humidity (below 30%), and not mu
 
 Of these 18 cities, only 11 have hotels within 10 kilometers of the city's given latitude and longitude. These specific hotels in each city can be provided upon request.
 
-Sources
+## Sources
 Data for the weather analysis retrieved from [OpenWeatherMap API](https://openweathermap.org/api) as of July 7, 2024.
 
 Data for local hotels retrieved from [Geoapify API](https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#api) as of July 7, 2024.
