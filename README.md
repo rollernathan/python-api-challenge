@@ -4,7 +4,8 @@ Module 6 Challenge
 We were tasked with identifying over 500 random cities at different distances from the equator and analyzing the weather at those different cities with respect to maximum temperature, humidity, cloudiness, and wind speed.
 
 ## Maximum Temperature vs Latitude
-
+![Maximum Temperature vs Latitude]()
+![Summary Statistics](https://github.com/rollernathan/Pymaceuticals_Inc_C5/blob/main/Images/Summary_statistics.png)
 
 
 ## Humidity vs Latitude
