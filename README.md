@@ -8,17 +8,17 @@ We were tasked with identifying over 500 random cities at different distances fr
 
 
 ## Humidity vs Latitude
-
+![Humidity vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig1.png)
 
 
 
 ## Cloudiness vs Latitude
-
+![Cloudiness vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig1.png)
 
 
 
 ## Wind Speed vs Latitude
-
+![Wind Speed vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig1.png)
 
 
 
