@@ -34,4 +34,5 @@ Of these 18 cities, only 11 have hotels within 10 kilometers of the city's given
 
 Sources
 Data for the weather analysis retrieved from [OpenWeatherMap API](https://openweathermap.org/api) as of July 7, 2024.
-Data for local hotels retrived from [Geoapify API](https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#api)
+
+Data for local hotels retrieved from [Geoapify API](https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#api) as of July 7, 2024.
