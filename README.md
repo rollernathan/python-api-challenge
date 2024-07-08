@@ -26,7 +26,9 @@ As shown in the scatterplot above, there is no correlation between wind speed an
 
 
 ## Vacation (YAY!)
+When going on vacation, I prefer no clouds, low humidity (below 30%), and not much wind (below 5 m/s). In isolating only cities from the previously generated list that meet these criteria, there are 18 cities remaining which are identified on the map below.
 
+![Vacation Hotels](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Vacation_map.png)
 
 
 
