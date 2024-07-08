@@ -8,7 +8,7 @@ We were tasked with identifying over 500 random cities at different distances fr
 
 
 ## Humidity vs Latitude
-![Humidity vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig1.png)
+![Humidity vs Latitude]([https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig1.png](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig2.png))
 
 
 
