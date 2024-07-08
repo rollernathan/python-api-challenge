@@ -6,33 +6,28 @@ We were tasked with identifying over 500 random cities at different distances fr
 ## Maximum Temperature vs Latitude
 ![Maximum Temperature vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig1.png)
 
+As indicated in the scatterplot above, the maximum temperature south of the equator (negative values for latitude) increase as we get closer to the equator (zero latitude) and the maximum temperature north of the equator (positive values for latitude) decreases as we get further from the equator. This is in line with what we would expect to be the case. When looking at the data, perhaps it is surprising there is not a greater correlation between maximum temperature and distance from the equator.
+
 
 ## Humidity vs Latitude
 ![Humidity vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig2.png)
 
+As shown in the scatterplot above, there is no correlation between humidity and latitude, or distance from the equator.
 
 
 ## Cloudiness vs Latitude
 ![Cloudiness vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig3.png)
 
+As shown in the scatterplot above, there is no correlation between cloudiness and latitude, or distance from the equator.
 
 
 ## Wind Speed vs Latitude
 ![Wind Speed vs Latitude](https://github.com/rollernathan/python-api-challenge/blob/main/WeatherPy/output_data/Fig4.png)
 
+As shown in the scatterplot above, there is no correlation between wind speed and latitude, or distance from the equator.
 
 
 
-Mouse_Timepoints_per_Drug Summary Statistics
-
-In the analysis, Capomulin and Ramicare had over 200 observed data points, with the rest of the drug regimens around 180 observed data points, except for Propriva with only about 150 observed data points. In testing the 10 drugs, Ketapril and Naftisol had the highest tumor volume, but also the most variability as indicated in the table above. Additionally, the samples were split with slightly more observed data points of male mice compared to female as indicated in the pie graph below.
-
-Gender_Breakdown
-
-Drug Comparison
-Final_Tumor_Volume
-
-We were tasked with looking at the final tumor volume for the following drug regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. In exploring this analysis, it is clear Capomulin and Ramicane have much lower final tumor volume than Infubinol and Ceftamin. This may be indicative of these drugs working better to reduce the volume of the tumor in the mice samples observed. You can also see one outlier for the Infubinol which was extremely low. This may indicate the Infubinol does work to reduce the tumor volume, but it needs to be specific mice in which this occurs.
 
 Individual Mouse Analysis
 Capomulin_Treatment_of_l509_over_time
